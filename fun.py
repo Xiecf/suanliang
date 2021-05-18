@@ -1,3 +1,4 @@
+# coding=utf-8
 def baohan(a, b):
     """
     判断a内是否包含b内的所有元素
